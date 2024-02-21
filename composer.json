@@ -1,0 +1,6 @@
+{
+  "name": "woocommerce/woo-mixed-coupons",
+  "description": "Description of the plugin",
+  "type": "wordpress-plugin",
+  "require": {}
+}
